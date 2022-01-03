@@ -1,0 +1,14 @@
+div{
+background-color: rgb(135, 135, 173);  
+background-repeat: no-repeat;
+height: auto;
+width: 200cm;
+border-style: double;
+border-radius: 5px;
+}
+body {
+background-image: url(images/background.jpg);
+}
+img { "width:42px;height:42px;
+
+}
