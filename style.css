@@ -1,4 +1,4 @@
-div{
+/*div{
 background-color: rgb(135, 135, 173);  
 background-repeat: no-repeat;
 height: auto;
@@ -11,4 +11,16 @@ background-image: url(images/background.jpg);
 }
 img { "width:42px;height:42px;
 
+}
+ul li:hover {
+display: inline;
+border: solid green;
+margin: 10px;
+list-style: none;
+}*/
+body,html {
+    width: 100%;
+    height: 100%;
+     background-color: gray;
+  
 }
